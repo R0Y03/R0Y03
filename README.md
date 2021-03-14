@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: 
 
-personal email: douglasrcassidy@gmail.com
+personal email: douglasrcassidy@gmail.com\n
 Discord: Roy_03#2707
 Twitter: https://www.twitter.com/R0Y_03
 
