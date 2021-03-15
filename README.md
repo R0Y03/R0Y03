@@ -7,8 +7,10 @@
 >
 > 📝 I’m currently learning Python, Javascript, Typescript
 >
-> 📧 How to reach me: <br>
+> 📧 How to reach me:
+
 Discord: Roy_03#2707 <br>
+
 Twitter: https://www.twitter.com/R0Y_03
 <hr>
 <!---
