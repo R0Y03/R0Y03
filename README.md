@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @R0Y03
 
-- 👀 I’m interested in coding discord bots.
 
-- 🌱 I’m currently learning Python, Javascript, Typescript
+```
+> 👋 Hi, I’m @R0Y03
 
-- 📫 How to reach me: 
+> 👀 I’m interested in coding discord bots.
 
+> 📝 I’m currently learning Python, Javascript, Typescript
+
+> 📧 How to reach me: 
+```
 personal email: douglasrcassidy@gmail.com\n
 Discord: Roy_03#2707
 Twitter: https://www.twitter.com/R0Y_03
